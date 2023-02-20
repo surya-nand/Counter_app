@@ -1,0 +1,30 @@
+.container{
+    width: 700px;
+    height: 500px;
+    margin-top: 150px;
+    margin-left: 400px;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid;
+    background-color: brown;
+}
+
+#increase,#decrease,#reset{
+    background-color: black;
+    color: aliceblue;
+    width: 120px;
+    height: 40px;
+}
+
+#number{
+    padding-top: 50px;
+    padding-left: 350px;
+    color: aliceblue;
+    font-size: 50px;
+}
+
+.changenumber{
+    padding-top: 50px;
+    padding-left: 180px;
+    justify-content: space-evenly;
+}
